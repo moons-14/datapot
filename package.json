@@ -6,5 +6,8 @@
   },
   "author": "",
   "license": "MIT",
-  "description": "Incorporate and serve all information."
+  "description": "Incorporate and serve all information.",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
 }
